@@ -309,6 +309,10 @@ Je schneller, desto teurer und kleiner die Kapazität.
 
 [[Netzplan – Mein Rechenweg]]
 
+### Strukturplan
+
+![[Pasted image 20260907111202.png]]
+
 ### Lieferung und Installation
 
 - **Abnahme** — Kunde prüft und akzeptiert die gelieferte Leistung
