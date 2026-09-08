@@ -307,7 +307,7 @@ Je schneller, desto teurer und kleiner die Kapazität.
 
 ### Netzplan – Rechenweg Schritt für Schritt
 
-[[Netzplan – Mein Rechenweg]]
+[[Netzplan - Rechenweg]]
 
 ### Strukturplan
 

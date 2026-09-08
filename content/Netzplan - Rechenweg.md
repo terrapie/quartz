@@ -9,7 +9,7 @@ FEZ wird zum FAZ des Nachfolgers. FAZ + Dauer = FEZ.
 
 ## 3. Start der Rückwärtsrechnung
 
-**Letztes FEZ = letztes SEZ**
+Letztes FEZ = letztes SEZ
 
 ## 4. SEZ und SAZ (rechts -> links)
 
@@ -27,7 +27,7 @@ im selben Kästchen: GP = SAZ - FAZ (oder SEZ - FEZ)
 
 ## 7. Kritischer Pfad
 
-- alle Vorgänge mit GP = 0, durchgehende Linie
+alle Vorgänge mit GP = 0, durchgehende Linie
 
 
 ![[IMG_5500.jpg]]

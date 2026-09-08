@@ -5,4 +5,4 @@
 
 [[Formeln-Einheiten AP 1]]
 
-[[Netzplan – Mein Rechenweg]]
+[[Netzplan - Rechenweg]]
