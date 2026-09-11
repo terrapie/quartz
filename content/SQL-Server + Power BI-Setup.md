@@ -35,8 +35,6 @@ Rechtsklick auf "Databases" → "Neue Datenbank..." → Name: `UebungsDB`
 
 ## Schritt 3: Tabelle mit Testdaten erstellen
 
-Neue Abfrage öffnen, diesen Code einfügen und ausführen (F5):
-
 ```sql
 CREATE TABLE Kunden (
     KundenID INT PRIMARY KEY IDENTITY(1,1),
@@ -56,7 +54,7 @@ VALUES
 SELECT * FROM Kunden;
 ```
 
-**Wichtig:** `SELECT * FROM UebungsDB` funktioniert nicht — `UebungsDB` ist die Datenbank (wie ein Ordner), `Kunden` ist die Tabelle darin. Man muss die Tabelle abfragen, nicht die Datenbank.
+`UebungsDB` ist die Datenbank (wie ein Ordner), `Kunden` ist die Tabelle darin.
 
 ## Schritt 4: Power BI mit SQL Server verbinden
 
