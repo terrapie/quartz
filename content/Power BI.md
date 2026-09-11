@@ -1,4 +1,4 @@
 # Setup
 
-[[SQL-Server + Power BI-Setup]]
+[[SQL-Server + Power BI - Setup]]
 
