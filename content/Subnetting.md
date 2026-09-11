@@ -31,6 +31,8 @@ b)
 
 512 / 32 = **16 Teilnetze**
 
+Man berechnet die Anzahl der Teilnetze nur dann, wenn alle Teilnetze gleich groß sind.
+
 
 c) **4. Teilnetz**
 
@@ -129,35 +131,35 @@ b) 10.10.0.0
 	11111111.11111111.11111100.00000000
 
 A /23
-2^10 = 1024 / 512 = 2 Teilnetze
+
 Netzadresse: 10.10.0.0
 Host-Bereich: 10.10.0.1 - 10.10.1.254
 Broadcast: 10.10.1.255
 ungenutzt übrig: 510 - 300 = 210
 
 B /25
-2^7 = 128 / 128 = 1 Teilnetz
+
 Netzadresse: 10.10.2.0
 Host-Bereich: 10.10.2.1 - 10.10.2.126
 Broadcast: 10.10.2.127
 ungenutzt übrig: 126 - 120 = 6
 
 C /26
-2^6 = 64 / 64 = 1 Teilnetz
+
 Netzadresse: 10.10.2.128
 Host-Bereich: 10.10.2.129 - 10.10.2.190
 Broadcast: 10.10.2.191
 ungenutzt übrig: 62 - 60 = 2
 
 D /27
-2^5 = 32 / 32 = 1 Teilnetz
+
 Netzadresse: 10.10.2.192
 Host-Bereich: 10.10.2.193 - 10.10.2.222
 Broadcast: 10.10.2.223
 ungenutzt übrig: 30 - 25 = 5
 
 E /28
-2^4 = 16 / 16 = 1 Teilnetz
+
 Netzadresse: 10.10.2.224
 Host-Bereich: 10.10.2.225 - 10.10.2.238
 Broadcast: 10.10.2.239
